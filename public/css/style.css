@@ -11,16 +11,11 @@ body {
 }
 
 #typing {
-    font-size: 2rem;
     color: white;
-    border-right: 4px solid white;
     animation: typing 5s steps(22) 1s infinite alternate;
 }
 
 #crow {
-    width: 20;
-    height: 20px;
-    background: url("crow.png");
     animation: crow 0.5s linear 0s infinite;
 }
 
