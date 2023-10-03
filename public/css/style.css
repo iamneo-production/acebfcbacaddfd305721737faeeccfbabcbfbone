@@ -11,7 +11,6 @@ body {
 }
 
 #typing {
-    font-family: "Courier New", 'Courier New', Courier, monospace;
     font-size: 2rem;
     color: white;
     border-right: 4px solid white;
@@ -27,6 +26,7 @@ body {
 
 .OP {
     color: rgb(0,0,255);
+    font-size: bold;
 }
 
 @keyframes typing {
@@ -34,6 +34,5 @@ body {
 }
 
 @keyframes crow {
-    from { transform: translateX(0);}
-    to 
+    transform: translateX(20px);
 }
