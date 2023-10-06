@@ -22,12 +22,3 @@ body {
 .OP {
     color: rgb(0,0,255);
     font-size: bold;
-}
-
-@keyframes typing {
-    from {width: 0;}
-}
-
-@keyframes crow {
-    transform: translateX(20px);
-}
