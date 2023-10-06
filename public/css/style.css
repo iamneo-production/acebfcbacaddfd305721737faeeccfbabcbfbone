@@ -7,7 +7,7 @@ body {
     display: flex;
     background-color: rgb(0, 0, 0);
     justify-content: center;
-    align-items: center;
+    align-content: center;
 }
 
 #typing {
@@ -22,3 +22,4 @@ body {
 .OP {
     color: rgb(0,0,255);
     font-size: bold;
+}
